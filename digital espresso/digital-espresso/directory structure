@@ -1,0 +1,14 @@
+digital-espresso/
+├── images/               # Folder containing all image assets
+│   ├── logo.jpg          # Logo image for the website
+│   ├── coffee-beans.jpg  # Image for coffee beans product
+│   ├── croissant.jpg     # Image for croissant product
+│   └── latte.jpg         # Image for latte product
+├── index.html
+├── aboutus.html
+├── products.html
+├── branches.html
+├── product1.html         # Individual product pages
+├── product2.html
+├── product3.html
+├── styles.css            # External stylesheet
